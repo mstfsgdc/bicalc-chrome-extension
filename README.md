@@ -1,9 +1,7 @@
 # BiCalc
-<div style="text-align: center;">
-
-![screenshot](./assets/images/Screenshot.png)
-
-</div>
+<p align="center">
+  <img src="./assets/images/Screenshot.png">
+</p>
 
 Seçtiğiniz ücretin üzerine Bionluk kesintisini ekleyerek hesaplar.
 
