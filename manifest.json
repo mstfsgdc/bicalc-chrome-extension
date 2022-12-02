@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Bionluk Ücret Hesaplama",
+    "description": "Seçtiğiniz ücretin üzerine Bionluk kesintisini ekleyerek hesaplar.",
+    "version": "0.0.0.1",
+    "action": {
+        "default_popup": "/popup/index.html",
+        "default_icon": "/assets/images/bicalc.png"
+    },
+    "default_locale": "tr",
+    "icons": {
+        "16": "./assets/images/icon16.png",
+        "32": "./assets/images/icon32.png",
+        "48": "./assets/images/icon48.png",
+        "128": "./assets/images/icon128.png"
+    },
+    "author": "mstfsgdc"
+}
